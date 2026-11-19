@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Ensemble Learning for Breast Cancer Detection: A High-Accuracy Model Integrating Clinical Insights"
+type: software
+license: MIT
+repository-code: "https://github.com/vlcmatrix-lab/ensemble-breast-cancer-detection"
+authors:
+  - family-names: Abdullah
+    given-names: Muhammad
+  - family-names: Kehkashan
+    given-names: Tanzila
+  - family-names: Zaman
+    given-names: Muhammad
+  - family-names: Akbar
+    given-names: Faheem
+  - family-names: Riaz
+    given-names: Raja Adil
+  - family-names: Hamza
+    given-names: Muhammad
+keywords:
+  - breast cancer
+  - ensemble learning
+  - machine learning
+  - healthcare AI
+preferred-citation:
+  type: conference-paper
+  title: "Ensemble Learning for Breast Cancer Detection: A High-Accuracy Model Integrating Clinical Insights"
+  authors:
+    - family-names: Abdullah
+      given-names: Muhammad
+    - family-names: Kehkashan
+      given-names: Tanzila
+    - family-names: Zaman
+      given-names: Muhammad
+    - family-names: Akbar
+      given-names: Faheem
+    - family-names: Riaz
+      given-names: Raja Adil
+    - family-names: Hamza
+      given-names: Muhammad
+  collection-title: "2024 5th International Conference on Innovative Computing (ICIC)"
+  publisher:
+    name: IEEE
+  year: 2024
+  doi: "10.1109/ICIC63915.2024.11116335"
+  url: "https://ieeexplore.ieee.org/document/11116335"

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Generated figures
+results/
+
+# Data (link to official sources in the README instead)
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+*.npy
+*.npz
+
+# Model weights
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Secrets
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

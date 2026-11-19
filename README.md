@@ -69,7 +69,7 @@ Run all cells in order. The notebook covers:
 
 Figures are saved to `results/` (created automatically). The nested cross-validation step takes a few minutes.
 
-The notebook is distributed without saved outputs. Results from a new run can differ from the values reported in the paper depending on library versions and hardware.
+The notebook is distributed without saved outputs.
 
 ## Results
 
